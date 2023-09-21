@@ -1,0 +1,24 @@
+{
+    "C_Cpp.errorSquiggles": "enabled",
+    "files.associations": {
+        "proc.h": "c",
+        "defs.h": "c",
+        "limits": "c",
+        "cmath": "c",
+        "compare": "c",
+        "concepts": "c",
+        "type_traits": "c",
+        "new": "c",
+        "typeinfo": "c",
+        "user.h": "c",
+        "climits": "c",
+        "cstdarg": "c",
+        "cstdio": "c",
+        "cstdlib": "c",
+        "*.tcc": "c",
+        "cstdbool": "c",
+        "cstdint": "c",
+        "elf.h": "c",
+        "sleeplock.h": "c"
+    }
+}
